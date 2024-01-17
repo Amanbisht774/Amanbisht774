@@ -1,14 +1,14 @@
-Hi 👋 My name is Aman Bisht
+Hi 👋 My name is Aman Bisht 👨‍💻 Ex-Data Scientist | AI Master's Student at QMUL
 ===========================
 
-Deep Leaning | Machine Learning | Data Science
+Deep Learning | Machine Learning | Data Science
 ----------------------------------------------
 
-I'm a Data Science-focused computer science engineer who likes learning new Deep Learning and machine learning techniques and tackling complex problems.
+Passionate about transforming complex data into actionable insights, I bring a rich background as a data scientist to my current studies in AI at Queen Mary University of London. My journey has been marked by hands-on projects in machine learning, big data analytics, and innovative AI research. Looking ahead, I aspire to spearhead groundbreaking advancements in AI, blending technical expertise with creative problem-solving. Outside the lab, I'm an avid reader and tech enthusiast, always keen to explore the intersection of technology with everyday life.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in London.
 * ✉️  You can contact me at [bishtaman0774@gmail.com](mailto:bishtaman0774@gmail.com)
-* 🧠  I'm learning Deep Leaning and Machine Learning Algorithms
+* 🧠  I'm learning Deep learning and Machine Learning Algorithms
 * 🤝  I'm open to collaborating on AI and ML Projects
 
 ### Skills
