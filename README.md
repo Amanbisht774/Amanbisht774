@@ -1,14 +1,18 @@
-Hi 👋 My name is Aman Bisht 👨‍💻 Ex-Data Scientist | AI Master's Student at QMUL
+Hi 👋 My name is Aman Bisht 👨‍💻 AI Engineer | Ex-Data Scientist 
 ===========================
 
-Deep Learning | Machine Learning | Data Science
+Langchain | AI Agents and agentic workflow |Deep Learning | Machine Learning | Data Science
 ----------------------------------------------
 
-Passionate about transforming complex data into actionable insights, I bring a rich background as a data scientist to my current studies in AI at Queen Mary University of London. My journey has been marked by hands-on projects in machine learning, big data analytics, and innovative AI research. Looking ahead, I aspire to spearhead groundbreaking advancements in AI, blending technical expertise with creative problem-solving. Outside the lab, I'm an avid reader and tech enthusiast, always keen to explore the intersection of technology with everyday life.
+Passionate about AI and data science, I hold a Master's in AI from Queen Mary University and have worked as a Data Scientist. I stay up-to-date with the latest advancements in AI and tech, constantly exploring new trends and innovations.
+
+Let's connect and build something amazing! 🚀
+
+Let me know if you'd like any tweaks! 😊
 
 * 🌍  I'm based in London.
 * ✉️  You can contact me at [bishtaman0774@gmail.com](mailto:bishtaman0774@gmail.com)
-* 🧠  I'm learning Deep learning and Machine Learning Algorithms
+* 🧠  I'm learning Agents workflow and Langchain framwork
 * 🤝  I'm open to collaborating on AI and ML Projects
 
 
